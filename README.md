@@ -1,1 +1,1 @@
-# https://lena-gavrilenko.github.io/image-gallery
+# https://elena-gavrilenko.github.io/image-gallery

@@ -159,12 +159,3 @@
   width: 100%;
   color:#FFFFFF;
 }
-.footer__rss-logo {
-  width: 120px;
-  transition: filter 0.5s;
-}
-.footer__rss-logo:hover {
-  cursor: pointer;
-  filter: opacity(0.5);
-  transition: filter 0.5s;
-}
